@@ -14,7 +14,9 @@ export default function Home() {
       <div className="mb-5">
         <input type="password" placeholder="Password" className="form-control" id="exampleInputPassword1"/>
       </div>
-      <div className="d-flex justify-content-center "><button type="submit" className="btn btn-primary w-100 ">Login</button></div>
+      <div className="d-flex justify-content-center ">
+        <button type="submit" className="btn btn-primary w-100 ">Login</button>
+        </div>
     </form>
   </div>
   
