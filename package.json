@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "animate.css": "^4.1.1",
     "bootstrap": "^5.3.3",
     "mdb-react-ui-kit": "^7.2.0"
   }
